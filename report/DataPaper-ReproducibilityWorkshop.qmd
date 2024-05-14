@@ -1,5 +1,5 @@
 ---
-title: "Data Article: Trier social stress test and food-choice: Behavioral, self-report & hormonal data"
+title: "Data Article: Trier social stress test and food-choice"
 author: "me"
 format: html
 bibliography: references.bib
